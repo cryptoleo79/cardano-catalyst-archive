@@ -1,0 +1,62 @@
+Cardano Catalyst archive
+Copyright 2026 cryptoleo79 and contributors
+
+This repository contains three categories of files. Each category is governed
+by a different license, summarized here for clarity. The .custody.json
+sidecar of each captured artifact is the canonical reference for that
+artifact's specific terms.
+
+(1) Code (under _verify/ and any future tooling)
+    Licensed under the Apache License, Version 2.0. See LICENSE.
+
+(2) Authored metadata
+    Files that this archive's tooling or its operator produced to describe
+    or index the preserved content. Examples: .custody.json sidecars,
+    CAPTURE_LOG.json session logs, INDEX.json enumerations,
+    fund-mapping.json, known-missing.json, wayback-campaign-ids.txt,
+    payouts.queryspec.json.
+
+    These files are simultaneously released under CC0 1.0 Universal
+    (Creative Commons Zero) and under the Apache License, Version 2.0.
+    Downstream users may use either license at their option.
+
+(3) Captured third-party content
+    HTML, PDF, JSON, binary, and other artifacts mirrored from
+    cardano.ideascale.com (via the Wayback Machine),
+    projectcatalyst.io, catalystexplorer.com,
+    milestones.projectcatalyst.io, cardano-foundation/catalyst-core,
+    and similar sources.
+
+    These files are preserved here under archival-preservation principles.
+    Each artifact's .custody.json sidecar records the source URL from
+    which downstream users can determine the applicable license.
+    Specifically:
+
+    - Content from cardano-foundation/catalyst-core is generally
+      licensed by that repository; consult the upstream LICENSE for the
+      specific terms.
+    - Content from projectcatalyst.io is subject to the website's terms
+      of service; archival preservation of publicly-published content
+      is the basis for inclusion here.
+    - Content from cardano.ideascale.com (captured via the Wayback
+      Machine) consists of proposal text authored by individual
+      proposers, who retain their copyrights; archival preservation is
+      the basis for inclusion here.
+    - Content from catalystexplorer.com is licensed by the
+      catalystexplorer project.
+    - On-chain transaction queries are CC0 by virtue of being
+      references to public-ledger data.
+
+    Downstream re-use of any captured artifact must respect the
+    source-of-origin license. The .custody.json sidecar is the canonical
+    reference for determining that license.
+
+The archive operator does not assert copyright over captured third-party
+content. The archive holds the content under fair-use / archival-
+preservation grounds, with chain-of-custody manifests documenting how,
+when, and from where each artifact was captured.
+
+This NOTICE file is the operator's good-faith disclosure of the license
+layering and is not legal advice. A future legal review may produce
+refinements; if it does, this file is updated and the change is recorded
+in CHANGELOG.md.

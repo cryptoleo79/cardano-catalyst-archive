@@ -1,0 +1,15 @@
+{
+  "schema": "cardano-catalyst-archive-source-index-v1",
+  "source": "catalyst-core",
+  "source_authority_class": "B",
+  "source_root_url": "https://github.com/cardano-foundation/catalyst-core.git",
+  "source_root_url_aliases": [
+    "https://github.com/input-output-hk/catalyst-core.git"
+  ],
+  "capture_mode": "git-bare-mirror",
+  "last_updated": "2026-06-02T21:15:00Z",
+  "artifact_count": 0,
+  "weekly_bundle_hashes_count": 0,
+  "session_log_paths": [],
+  "notes": "Repository relocated from input-output-hk to cardano-foundation prior to FLOW-6 capture; both URLs are valid historical references. F2-F9 per-fund data is stored as encrypted SQLite (fundN_database_encrypted.sqlite3); decryption key not published."
+}

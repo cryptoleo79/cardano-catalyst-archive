@@ -1,0 +1,12 @@
+{
+  "schema": "cardano-catalyst-archive-source-index-v1",
+  "source": "ideascale",
+  "source_authority_class": "C",
+  "source_root_url": "https://cardano.ideascale.com/",
+  "capture_mode": "via-wayback-machine",
+  "last_updated": "2026-06-02T21:15:00Z",
+  "artifact_count": 0,
+  "fund_coverage": {},
+  "session_log_paths": [],
+  "notes": "Live cardano.ideascale.com is a JavaScript SPA returning a byte-identical empty 852-byte shell for every URL regardless of validity. The archive captures from the Wayback Machine, which holds server-rendered snapshots from before the SPA conversion. See docs/CATALYST_CAPTURE_PLAN.md §2.3 and §3.2 for the enumeration and capture strategy."
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "cardano-catalyst-archive-index-v1",
+  "archive_version": "1.0.0",
+  "methodology_reference": "https://github.com/cryptoleo79/cardano-delegation-observatory/blob/main/METHODOLOGY.md#24-catalyst-preservation-methodology-flow-6",
+  "methodology_version_at_index_emission": "0.9",
+  "last_updated": "2026-06-02T21:15:00Z",
+  "last_session_id": null,
+  "subfolders": {
+    "projectcatalyst-io": {
+      "source_authority_class": "B",
+      "artifact_count": 0,
+      "last_capture_date": null,
+      "subfolder_index": "projectcatalyst-io/INDEX.json"
+    },
+    "catalyst-core": {
+      "source_authority_class": "B",
+      "artifact_count": 0,
+      "last_capture_date": null,
+      "subfolder_index": "catalyst-core/INDEX.json",
+      "notes": "Single bare git mirror; per-week bundle hashes listed in subfolder index when captured."
+    },
+    "ideascale": {
+      "source_authority_class": "C",
+      "artifact_count": 0,
+      "last_capture_date": null,
+      "subfolder_index": "ideascale/INDEX.json",
+      "notes": "Captured via the Wayback Machine; live IdeaScale is not fetched."
+    },
+    "catalyst-explorer": {
+      "source_authority_class": "D",
+      "artifact_count": 0,
+      "last_capture_date": null,
+      "subfolder_index": "catalyst-explorer/INDEX.json"
+    },
+    "milestones": {
+      "source_authority_class": "B",
+      "artifact_count": 0,
+      "last_capture_date": null,
+      "subfolder_index": "milestones/INDEX.json"
+    },
+    "on-chain": {
+      "source_authority_class": "A",
+      "artifact_count": 0,
+      "last_capture_date": null,
+      "subfolder_index": "on-chain/INDEX.json",
+      "notes": "Query specs only; the chain itself preserves the transactions."
+    }
+  }
+}
