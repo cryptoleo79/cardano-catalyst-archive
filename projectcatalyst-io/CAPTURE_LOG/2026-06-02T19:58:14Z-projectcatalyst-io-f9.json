@@ -1,0 +1,15 @@
+{
+  "capture_session_id": "2026-06-02T19:58:14Z-projectcatalyst-io-f9",
+  "session_start": "2026-06-02T19:58:14Z",
+  "session_end": "2026-06-03T02:02:52Z",
+  "capture_operator": "cryptoleo79",
+  "capture_command": "curl -sL --user-agent \"cdo-preserve/1.0\" https://projectcatalyst.io/funds/9",
+  "session_target_root_url": "https://projectcatalyst.io/funds/9",
+  "session_target_authority_class": "B",
+  "artifact_count": 1,
+  "byte_total": 212353,
+  "per_file_manifest_count": 1,
+  "rollup_sha256": "89c66066197a0f066e99bb2f60923357635fb5e753dac7e77392b1661720145e",
+  "errors": [],
+  "notes": "First real capture in the Cardano Catalyst archive. Exercises the full 5-stage pipeline on a benign Class B target per Phase 5 Step 3 of FLOW-6."
+}
