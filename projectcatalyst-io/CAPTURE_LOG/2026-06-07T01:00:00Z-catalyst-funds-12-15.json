@@ -1,0 +1,26 @@
+{
+  "schema": "capture-session-v1",
+  "session_id": "2026-06-07T01:00:00Z-catalyst-funds-12-15",
+  "source": "projectcatalyst-io",
+  "capture_date": "2026-06-07T00:00:00Z",
+  "operator": "cryptoleo79",
+  "source_authority_class": "B",
+  "capture_pattern": "wayback-pin",
+  "reason": "Complete Catalyst fund coverage (Funds 12-15).",
+  "artifact_count": 4,
+  "funds_covered": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}
