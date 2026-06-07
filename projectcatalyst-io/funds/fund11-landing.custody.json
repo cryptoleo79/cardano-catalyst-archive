@@ -1,0 +1,16 @@
+{
+  "schema": "custody-v1",
+  "source_url": "https://projectcatalyst.io/funds/11",
+  "capture_date": "2026-06-07T00:00:00Z",
+  "capture_method": "wayback-pin: availability/Save-Page-Now then curl -sL --user-agent \"cdo-preserve/1.0\" \"<wayback id_ url>\"; SHA-256 computed, bytes not stored",
+  "capture_operator": "cryptoleo79",
+  "capture_session_id": "2026-06-07T00:00:00Z-catalyst-funds-1-15",
+  "sha256": "09f5262faa244b9f5f8a32ce47e6c8a1f155ca0ab27e9efa8a46c6374db5cc9d",
+  "content_type": "text/html",
+  "http_status": 200,
+  "source_authority_class": "B",
+  "wayback_url": "https://web.archive.org/web/20260607190122id_/https://projectcatalyst.io/funds/11",
+  "bytes_stored": false,
+  "fund_coverage": 11,
+  "notes": "Project Catalyst Fund 11 landing page, preserved via the Wayback Machine."
+}

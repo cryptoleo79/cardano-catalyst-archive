@@ -1,0 +1,16 @@
+{
+  "schema": "custody-v1",
+  "source_url": "https://projectcatalyst.io/funds/6/voting-results",
+  "capture_date": "2026-06-07T00:00:00Z",
+  "capture_method": "wayback-pin: availability/Save-Page-Now then curl -sL --user-agent \"cdo-preserve/1.0\" \"<wayback id_ url>\"; SHA-256 computed, bytes not stored",
+  "capture_operator": "cryptoleo79",
+  "capture_session_id": "2026-06-07T00:00:00Z-catalyst-funds-1-15",
+  "sha256": "f290e08c5891a960672858c83b47f4680f9f962c9a0d4354b9d3925a3a85381b",
+  "content_type": "text/html",
+  "http_status": 200,
+  "source_authority_class": "B",
+  "wayback_url": "https://web.archive.org/web/20260607185737id_/https://projectcatalyst.io/funds/6/voting-results",
+  "bytes_stored": false,
+  "fund_coverage": 6,
+  "notes": "Project Catalyst Fund 6 results page, preserved via the Wayback Machine."
+}

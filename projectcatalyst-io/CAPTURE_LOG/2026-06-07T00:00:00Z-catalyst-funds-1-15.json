@@ -1,0 +1,131 @@
+{
+  "schema": "capture-session-v1",
+  "session_id": "2026-06-07T00:00:00Z-catalyst-funds-1-15",
+  "source": "projectcatalyst-io",
+  "capture_date": "2026-06-07T00:00:00Z",
+  "operator": "cryptoleo79",
+  "source_authority_class": "B",
+  "capture_pattern": "wayback-pin",
+  "reason": "Expand Catalyst archive coverage to Funds 1-15 (landing + voting-results). Partial pass: funds 12-15 pending (SPN slow).",
+  "artifact_count": 15,
+  "funds_covered": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "artifacts": [
+    {
+      "path": "funds/fund1-landing.custody.json",
+      "fund": 1,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260503034240id_/https://projectcatalyst.io/funds/1",
+      "sha256": "96958950d8cda0f6e9219f5dca2a56dbfb8f39b3008cdfde0fd72bf1f00fb76a"
+    },
+    {
+      "path": "funds/fund10-landing.custody.json",
+      "fund": 10,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260602195951id_/https://projectcatalyst.io/funds/10",
+      "sha256": "cf46ef53a25c561fc04e3352f8eddd89dde7101113ec135097510fe8ab384923"
+    },
+    {
+      "path": "funds/fund10-results.custody.json",
+      "fund": 10,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20250226194314id_/https://projectcatalyst.io/funds/10/voting-results",
+      "sha256": "c6c041d8677ef95bc4ee920b58164cc704649b08c4f1bc3b8769d6eb3d40249f"
+    },
+    {
+      "path": "funds/fund11-landing.custody.json",
+      "fund": 11,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607190122id_/https://projectcatalyst.io/funds/11",
+      "sha256": "09f5262faa244b9f5f8a32ce47e6c8a1f155ca0ab27e9efa8a46c6374db5cc9d"
+    },
+    {
+      "path": "funds/fund11-results.custody.json",
+      "fund": 11,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260121033609id_/https://projectcatalyst.io/funds/11/voting-results",
+      "sha256": "395b4b337ca476254a37897c55d096b29e2ff5a790feb10616a843ef71522bff"
+    },
+    {
+      "path": "funds/fund2-landing.custody.json",
+      "fund": 2,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260503034240id_/https://projectcatalyst.io/funds/2",
+      "sha256": "3dd51cd894d2155b4f53763bdae57086374532622b768006356271a130d82298"
+    },
+    {
+      "path": "funds/fund2-results.custody.json",
+      "fund": 2,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607185313id_/https://projectcatalyst.io/funds/2/voting-results",
+      "sha256": "b447c6418b8b59b48b7abbef0762772875559821c55268f37f896545da351bdf"
+    },
+    {
+      "path": "funds/fund3-landing.custody.json",
+      "fund": 3,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260602195951id_/https://projectcatalyst.io/funds/3",
+      "sha256": "22ea2180979151421ec39598e85591f2d4484919f571f2c55ae2e4e50e0813b0"
+    },
+    {
+      "path": "funds/fund4-results.custody.json",
+      "fund": 4,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607185531id_/https://projectcatalyst.io/funds/4/voting-results",
+      "sha256": "af9f4771aba0d2a417080b36984ee8ca25545b32d79ecd0a1c1df7b11ea3c988"
+    },
+    {
+      "path": "funds/fund5-landing.custody.json",
+      "fund": 5,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607185557id_/https://projectcatalyst.io/funds/5",
+      "sha256": "ed55ac7185e1d1e0af564078947e383d8861f99b26c14a24c3bbba466df2f4c3"
+    },
+    {
+      "path": "funds/fund6-landing.custody.json",
+      "fund": 6,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607185716id_/https://projectcatalyst.io/funds/6",
+      "sha256": "dc12655a5206b8d779eeee727ad3822f5713975e13a81733664aa4b3f661e24f"
+    },
+    {
+      "path": "funds/fund6-results.custody.json",
+      "fund": 6,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607185737id_/https://projectcatalyst.io/funds/6/voting-results",
+      "sha256": "f290e08c5891a960672858c83b47f4680f9f962c9a0d4354b9d3925a3a85381b"
+    },
+    {
+      "path": "funds/fund7-landing.custody.json",
+      "fund": 7,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260503034240id_/https://projectcatalyst.io/funds/7",
+      "sha256": "ad97cc9f6ca18934bbbf2a15fe3629777d5cb9d3ab2d4c139ec20bda2dbf9462"
+    },
+    {
+      "path": "funds/fund8-landing.custody.json",
+      "fund": 8,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260602195951id_/https://projectcatalyst.io/funds/8",
+      "sha256": "14f511440db0aef554aa6b52a3b5b10562e631192739aa9c92ea382afff56af0"
+    },
+    {
+      "path": "funds/fund9-landing.custody.json",
+      "fund": 9,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260602195936id_/https://projectcatalyst.io/funds/9",
+      "sha256": "c7caf5ac849ba834b8b50c4028ca548176e3e9653804d2646a3b8fb4b0bfc30f"
+    }
+  ]
+}

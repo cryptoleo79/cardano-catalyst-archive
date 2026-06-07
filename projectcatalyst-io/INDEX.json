@@ -4,8 +4,8 @@
   "source_authority_class": "B",
   "source_root_url": "https://projectcatalyst.io/",
   "capture_mode": "direct-polite-client",
-  "last_updated": "2026-06-03T02:02:52Z",
-  "artifact_count": 1,
+  "last_updated": "2026-06-07T00:00:00Z",
+  "artifact_count": 16,
   "fund_coverage": {
     "F9": {
       "landing_page_captured": true,
@@ -13,6 +13,7 @@
     }
   },
   "session_log_paths": [
-    "CAPTURE_LOG/2026-06-02T19:58:14Z-projectcatalyst-io-f9.json"
+    "CAPTURE_LOG/2026-06-02T19:58:14Z-projectcatalyst-io-f9.json",
+    "CAPTURE_LOG/2026-06-07T00:00:00Z-catalyst-funds-1-15.json"
   ]
 }
