@@ -4,17 +4,29 @@
   "source_authority_class": "B",
   "source_root_url": "https://projectcatalyst.io/",
   "capture_mode": "direct-polite-client",
-  "last_updated": "2026-06-07T00:00:00Z",
-  "artifact_count": 20,
+  "last_updated": "2026-06-15T08:24:01Z",
+  "artifact_count": 23,
   "fund_coverage": {
-    "F9": {
-      "landing_page_captured": true,
-      "artifact_count": 1
-    }
+    "F1": { "landing_page_captured": true, "results_captured": false, "artifact_count": 1 },
+    "F2": { "landing_page_captured": true, "results_captured": true, "artifact_count": 2 },
+    "F3": { "landing_page_captured": true, "results_captured": false, "artifact_count": 1 },
+    "F4": { "landing_page_captured": false, "results_captured": true, "artifact_count": 1 },
+    "F5": { "landing_page_captured": true, "results_captured": false, "artifact_count": 1 },
+    "F6": { "landing_page_captured": true, "results_captured": true, "artifact_count": 2 },
+    "F7": { "landing_page_captured": true, "results_captured": false, "artifact_count": 1 },
+    "F8": { "landing_page_captured": true, "results_captured": false, "artifact_count": 1 },
+    "F9": { "landing_page_captured": true, "results_captured": false, "artifact_count": 1 },
+    "F10": { "landing_page_captured": true, "results_captured": true, "artifact_count": 2 },
+    "F11": { "landing_page_captured": true, "results_captured": true, "artifact_count": 2 },
+    "F12": { "landing_page_captured": true, "results_captured": true, "artifact_count": 2 },
+    "F13": { "landing_page_captured": true, "results_captured": true, "artifact_count": 2 },
+    "F14": { "landing_page_captured": true, "results_captured": true, "artifact_count": 2 },
+    "F15": { "landing_page_captured": true, "results_captured": false, "artifact_count": 1, "notes": "voting-results not yet published at capture time (source 404)" }
   },
   "session_log_paths": [
     "CAPTURE_LOG/2026-06-02T19:58:14Z-projectcatalyst-io-f9.json",
     "CAPTURE_LOG/2026-06-07T00:00:00Z-catalyst-funds-1-15.json",
-    "CAPTURE_LOG/2026-06-07T01:00:00Z-catalyst-funds-12-15.json"
+    "CAPTURE_LOG/2026-06-07T01:00:00Z-catalyst-funds-12-15.json",
+    "CAPTURE_LOG/2026-06-15T08:24:01Z-catalyst-funds-14-15.json"
   ]
 }

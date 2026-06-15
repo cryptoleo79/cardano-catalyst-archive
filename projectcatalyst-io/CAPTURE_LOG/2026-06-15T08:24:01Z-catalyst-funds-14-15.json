@@ -1,0 +1,59 @@
+{
+  "schema": "capture-session-v1",
+  "session_id": "2026-06-15T08:24:01Z-catalyst-funds-14-15",
+  "source": "projectcatalyst-io",
+  "capture_date": "2026-06-15T08:24:01Z",
+  "operator": "cryptoleo79",
+  "source_authority_class": "B",
+  "capture_pattern": "wayback-pin",
+  "reason": "Close the remaining gap left pending by the 2026-06-07 sessions (Funds 14-15). Funds 14 landing + voting-results and Fund 15 landing captured; Fund 15 voting-results not yet published at capture time (source 404), to be captured once available.",
+  "artifact_count": 3,
+  "funds_covered": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "artifacts": [
+    {
+      "path": "funds/fund14-landing.custody.json",
+      "fund": 14,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607202101id_/https://projectcatalyst.io/funds/14",
+      "sha256": "d86fdafa5ac17763909607dfc5e0370a61398b0d574a60fd33214551426e3501"
+    },
+    {
+      "path": "funds/fund14-results.custody.json",
+      "fund": 14,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607202211id_/https://projectcatalyst.io/funds/14/voting-results",
+      "sha256": "68a848f1b8380efef0de62dbc011c992e4f11cf77eba52fa81d3311179eeb988"
+    },
+    {
+      "path": "funds/fund15-landing.custody.json",
+      "fund": 15,
+      "bytes_stored": false,
+      "wayback_url": "https://web.archive.org/web/20260607202302id_/https://projectcatalyst.io/funds/15",
+      "sha256": "08e09f066793794d2003e752d8b5d59d34bef753b550dfa23206b09f7bc03b73"
+    }
+  ],
+  "pending": [
+    {
+      "fund": 15,
+      "artifact": "voting-results",
+      "source_url": "https://projectcatalyst.io/funds/15/voting-results",
+      "reason": "not yet published (HTTP 404 at capture time)"
+    }
+  ]
+}

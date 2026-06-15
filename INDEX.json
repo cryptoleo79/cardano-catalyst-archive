@@ -3,13 +3,13 @@
   "archive_version": "1.0.0",
   "methodology_reference": "https://github.com/cryptoleo79/cardano-delegation-observatory/blob/main/METHODOLOGY.md#24-catalyst-preservation-methodology-flow-6",
   "methodology_version_at_index_emission": "0.9",
-  "last_updated": "2026-06-07T00:00:00Z",
-  "last_session_id": "2026-06-02T19:58:14Z-projectcatalyst-io-f9",
+  "last_updated": "2026-06-15T08:24:01Z",
+  "last_session_id": "2026-06-15T08:24:01Z-catalyst-funds-14-15",
   "subfolders": {
     "projectcatalyst-io": {
       "source_authority_class": "B",
-      "artifact_count": 20,
-      "last_capture_date": "2026-06-07",
+      "artifact_count": 23,
+      "last_capture_date": "2026-06-15",
       "subfolder_index": "projectcatalyst-io/INDEX.json"
     },
     "catalyst-core": {

@@ -1,0 +1,16 @@
+{
+  "schema": "custody-v1",
+  "source_url": "https://projectcatalyst.io/funds/15",
+  "capture_date": "2026-06-15T08:24:01Z",
+  "capture_method": "wayback-pin: availability/SPN then curl -sL -A \"cdo-preserve/1.0\" \"<wayback id_>\"; sha computed, bytes not stored",
+  "capture_operator": "cryptoleo79",
+  "capture_session_id": "2026-06-15T08:24:01Z-catalyst-funds-14-15",
+  "sha256": "08e09f066793794d2003e752d8b5d59d34bef753b550dfa23206b09f7bc03b73",
+  "content_type": "text/html",
+  "http_status": 200,
+  "source_authority_class": "B",
+  "wayback_url": "https://web.archive.org/web/20260607202302id_/https://projectcatalyst.io/funds/15",
+  "bytes_stored": false,
+  "fund_coverage": 15,
+  "notes": "Project Catalyst Fund 15 landing page, preserved via the Wayback Machine. Fund 15 voting-results not yet published at capture time (source returns 404); results to be captured once available."
+}
